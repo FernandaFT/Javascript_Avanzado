@@ -1,0 +1,26 @@
+body {
+	background-color: #828282;
+	margin: 0 auto;
+}
+.fa-chevron-circle-right:hover {
+	cursor: pointer;
+	color:#6bc61f;
+}
+.fa-chevron-circle-left:hover {
+	cursor: pointer;
+	color:#6bc61f;
+}
+#btnNext {
+	position: absolute;
+    left: 765%;
+    top: 1%;
+}
+.gallery {
+	position: absolute;
+    left: 40%;
+}
+.buttons{
+	position: absolute;
+    left: 36%;
+    top: 24%;
+}
