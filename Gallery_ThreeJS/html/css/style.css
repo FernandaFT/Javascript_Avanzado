@@ -1,0 +1,23 @@
+html, body {
+	height: 100%;
+}
+body {
+	background-image: url("../img/stars.gif");
+	margin: 0;
+	font-family: Arial;
+	overflow: hidden;
+}
+.element {
+	width: 140px;
+	height: 180px;
+	cursor: default;
+}
+
+.element .img{
+	position: absolute;
+	top: 40px;
+	width: 100%;
+	font-size: 70px;
+	text-align: center;
+	font-weight: bold;
+}
